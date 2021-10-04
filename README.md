@@ -21,6 +21,7 @@ You might use persistence to keep track of the state of the game or track scores
 **To Run files:**
 
         npm i 
-        npm Start 
+        npm start 
+        node server.js
         npm run seeds
 
